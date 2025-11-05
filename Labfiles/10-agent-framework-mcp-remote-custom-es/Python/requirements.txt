@@ -1,0 +1,18 @@
+# Dependencias para el servidor MCP remoto personalizado
+
+# === OPCIÓN 1: FastMCP Standalone (remote_mcp_server.py) ===
+# Descomentar si quieres usar el servidor con SSE nativo
+# fastmcp>=1.0.0
+# cffi>=1.15.0
+# cryptography>=41.0.0
+
+# === OPCIÓN 2: FastAPI HTTP Server (remote_mcp_server_fastapi.py) - RECOMENDADO ===
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+
+# === COMÚN A TODAS LAS OPCIONES ===
+# El paquete mcp ya debería estar instalado en el entorno
+# mcp>=0.1.0
+
+# Utilidades
+python-dotenv>=1.0.0

@@ -43,4 +43,5 @@ El proyecto contiene los siguientes módulos en la carpeta `Labfiles`:
 - `07-agent-framework-mcp-local-tools-es`: Herramientas MCP locales
 - `08-agent-framework-orchestration-es`: Orquestación de flujos
 - `09-agent-framework-A2A-es`: Comunicación entre agentes
+- `10-azure-ai-agents-sdk-bing-search-es`: Agentes con Bing Search para investigación de mercado
 

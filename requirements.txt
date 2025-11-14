@@ -12,5 +12,5 @@ a2a-sdk
 requests
 mcp
 semantic-kernel>=1.11.0;
-agent-framework
+azure-ai-assistant
 

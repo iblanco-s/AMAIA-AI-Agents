@@ -1,8 +1,8 @@
 Concepto_Gasto,Coste_EUR,Destino
-Vuelo_Madrid_Londres, 287.50, Planta_UK
-Hotel_3_Noches_Londres, 465.00, Planta_UK
-Comidas_Ingenieros, 178.40, Planta_UK
-Transporte_Local_UK, 92.30, Planta_UK
-Materiales_Pruebas_Turbina, 1250.00, Planta_España
-Certificaciones_Calidad, 890.00, Planta_México
-Consultoría_Técnica_Aerospace, 2400.00, Remoto
+Vuelo_Madrid_Barcelona, 187.50, Oficina_Barcelona
+Hotel_2_Noches_Barcelona, 265.00, Oficina_Barcelona
+Comidas_Reunión_Clientes, 148.40, Oficina_Barcelona
+Transporte_Local_Taxi, 62.30, Oficina_Barcelona
+Material_Oficina_Papelería, 125.00, Oficina_Madrid
+Curso_Formación_Online, 390.00, Remoto
+Licencias_Software_Equipo, 890.00, Oficina_Madrid

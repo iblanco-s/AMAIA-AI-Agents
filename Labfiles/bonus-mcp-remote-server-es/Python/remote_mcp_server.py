@@ -39,5 +39,5 @@ def get_upcoming_events() -> dict:
     }
 
 if __name__ == "__main__":
-    # Ejecuta el servidor HTTP de MCP con la configuración indicada
+    # Run the MCP HTTP server with the specified configuration
     asyncio.run(mcp.run_streamable_http_async())

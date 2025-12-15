@@ -1,0 +1,8 @@
+Concepto_Gasto,Coste_EUR,Destino
+Vuelo_Madrid_Barcelona, 187.50, Oficina_Barcelona
+Hotel_2_Noches_Barcelona, 265.00, Oficina_Barcelona
+Comidas_Reunión_Clientes, 148.40, Oficina_Barcelona
+Transporte_Local_Taxi, 62.30, Oficina_Barcelona
+Material_Oficina_Papelería, 125.00, Oficina_Madrid
+Curso_Formación_Online, 390.00, Remoto
+Licencias_Software_Equipo, 890.00, Oficina_Madrid
